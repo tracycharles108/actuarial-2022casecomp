@@ -6,7 +6,7 @@ Bruin Actuarial Society, or BAS, is UCLA’s premier organization for student ac
 
 The 2022 Case Competition prompt was a reserving analysis task and a presentation on CAT reserving, written by Liberty Mutual. 
 
-Our team, Team 11, consisted of 4 then-sophomores: June Tsay, Minju Kim, Shannon Leo, Tracy Charles.
+Our team, Team 11, consisted of Tracy Charles, Minju Kim, Shannon Leo, June Tsay (alphabetical order).
 
 We prepared a presentation, a reserving analysis workbook, and a written executive summary. In the first round, we did a live presentation in front of BAS officers, then did the same in front of actuarial professionals in the final round.
 
