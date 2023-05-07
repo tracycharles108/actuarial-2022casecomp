@@ -8,7 +8,7 @@ The 2022 Case Competition prompt was a reserving analysis task and a presentatio
 
 Our team, Team 11, consisted of Tracy Charles, Minju Kim, Shannon Leo, June Tsay (alphabetical order).
 
-We prepared a presentation, a reserving analysis workbook, and a written executive summary. In the first round, we did a live presentation in front of BAS officers, then did the same in front of actuarial professionals in the final round.
+We prepared a presentation, a reserving analysis workbook, and a written executive summary. In the first round, we did a live presentation in front of BAS officers, then did the same for actuarial professionals in the final round and responded to questions.
 
 We completed the task using Microsoft Excel and VBA for automation and data visualization. In support of our methods, we referenced a document by the Casualty Actuarial Society found here: https://www.casact.org/sites/default/files/database/studynotes_friedland_estimating.pdf
 
