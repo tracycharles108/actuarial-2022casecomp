@@ -1,6 +1,6 @@
 # actuarial-2022casecomp
 
-Bruin Actuarial Society’s Tenth Case Competition (2022)
+## Bruin Actuarial Society’s Tenth Case Competition (2022)
 
 Bruin Actuarial Society, or BAS, is UCLA’s premier organization for student actuaries. See their website here: https://www.math.ucla.edu/~actuary/
 
